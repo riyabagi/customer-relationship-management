@@ -1,35 +1,40 @@
 # Customer Relationship Management (CRM)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Resolving Merge Conflicts](#resolving-merge-conflicts)
-
 ## Introduction
-The Customer Relationship Management (CRM) project is designed to help businesses manage their interactions with current and potential customers. It provides a centralized platform to track customer information, interactions, and sales.
+Welcome to the Customer Relationship Management (CRM) project! This application is designed to help businesses manage their interactions with current and potential customers efficiently. It provides a centralized platform to track customer information, interactions, and sales.
 
-## Features
-- Track customer information and interactions
-- Manage sales pipelines and opportunities
-- Generate reports and analytics
-- Customizable dashboard
+## Features 🚀
 
-## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Others:** Git, GitHub
+### User Authentication
+- Users can sign up and log in to the platform.
+- Sessions are managed with secure authentication.
 
-## Installation
-To set up the project locally, follow these steps:
+### Customer Management
+- Add, edit, and delete customer information.
+- Track customer interactions and communication history.
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/riyabagi/customer-relationship-management.git
-   cd customer-relationship-management
+### Sales Management
+- Manage sales pipelines and opportunities.
+- Track deals, sales stages, and forecasts.
+
+### Reporting and Analytics
+- Generate reports on customer interactions and sales performance.
+- Analyze data to improve customer relationship strategies.
+
+## Technologies Used 🛠️
+
+### Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+### Backend
+- **PHP**
+- **MySQL**
+
+## Installation and Setup ⚙️
+
+### Clone the Repository
+```sh
+git clone https://github.com/riyabagi/customer-relationship-management.git
+cd customer-relationship-management
